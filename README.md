@@ -12,7 +12,7 @@ where you build custom chess positions
 and solve them using a rule-based capture engine 
 with animated playback.
 
-
+![Demo](ezgif-4d0e7275c00a6192.gif)
 
 ⚙️ Features
 
@@ -25,7 +25,7 @@ with animated playback.
 🧩 How to use
 
 1. Place pieces on the board
-2. Click **Solve**
+2. Click Solve
 3. Watch or step through the solution
 4. Use Playback for animation
 
