@@ -12,7 +12,7 @@ where you build custom chess positions
 and solve them using a rule-based capture engine 
 with animated playback.
 
-![Demo](ezgif-4d0e7275c00a6192.gif)
+![Demo](getsitecontrol__convert-video-to-gif__free.gif)
 
 ⚙️ Features
 
