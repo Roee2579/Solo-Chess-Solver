@@ -20,6 +20,10 @@ with animated playback.
 - Animation for piece movement
 - Move list navigation
 
+![](a.png)
+
+![](b.png)
+
 🧩 How to use
 
 1. Place pieces on the board
@@ -34,6 +38,10 @@ with animated playback.
 - Solve → run solver
 - Playback → animate solution
 - Arrow keys → navigate moves
+
+![](c.png)
+
+![](d.png)
 
 ⚠️ Notes
 
