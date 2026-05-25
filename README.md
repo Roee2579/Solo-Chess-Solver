@@ -12,8 +12,6 @@ where you build custom chess positions
 and solve them using a rule-based capture engine 
 with animated playback.
 
-![Demo](צילום מסך 2026-05-25 222540.png)
-
 ⚙️ Features
 
 - Interactive chess board editor
