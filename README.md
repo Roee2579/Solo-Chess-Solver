@@ -12,7 +12,7 @@ where you build custom chess positions
 and solve them using a rule-based capture engine 
 with animated playback.
 
-![Demo](C:\Users\roeef\OneDrive\Pictures\Screenshots\צילום מסך 2026-05-25 222540.png)
+![Demo](צילום מסך 2026-05-25 222540.png)
 
 ⚙️ Features
 
