@@ -49,6 +49,14 @@ with animated playback.
 - This is not a full chess engine
 - Designed for puzzle experimentation
 
+⬇️ Install
+
+1. README --> download raw file --> downloads
+
+Or:
+
+2. Chess_Solo_Solver_v4.py --> Ctrl + A --> Ctrl + C --> Ctrl + V in IDLE
+
 💬 Feedback
 
 If you try this, feedback is welcome:
